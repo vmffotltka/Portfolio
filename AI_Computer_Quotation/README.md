@@ -17,8 +17,8 @@ This project aims to develop an AI system that recommends optimal computer parts
 ## Installation
 1. Clone the repository:
     ```
-    git clone https://github.com/username/portfolio.git
-    cd portfolio/AI_Computer_Quotation
+    git clone https://github.com/vmffotltka/Portfolio.git
+    cd Portfolio/AI_Computer_Quotation
     ```
 2. Install required packages:
     ```
