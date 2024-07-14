@@ -32,6 +32,3 @@ This project aims to develop an AI system that recommends optimal computer parts
 ## Screenshots
 ![Screenshot 1](images/screenshot1.png)
 ![Screenshot 2](images/screenshot2.png)
-
-## License
-This project is licensed under the MIT License.
