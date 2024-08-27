@@ -1,0 +1,61 @@
+초기화면
+
+
+
+용도: 라디오버튼(사무용, 게임용, 영상편집)
+
+설명
+사무용: 전체적인 밸런스를 추구합니다.
+게임용: 그래픽카드 성능에 초점을 맞춥니다.
+영상편집: cpu성능과 램 용량에 초점을 맞춥니다. 인텔 cpu만을 지원합니다.
+
+예산: text input(40만원-300만원)
+
+                                                              [제출]
+
+
+
+
+
+
+결과화면
+
+추천 부품 리스트(table 예상)
+
+
+cpu              cpu                cpu                cpu                    cpu
+
+
+
+
+ram              ram                ram                ram                    ram
+
+
+
+
+mainboard        mainboard          mainboard          mainboard             mainboard
+
+
+
+
+
+
+gpu              gpu                gpu                gpu                   gpu
+
+
+
+
+power            power              power              power                 power
+
+
+
+
+
+
+case              case               case               case                   case
+
+
+
+
+
+
